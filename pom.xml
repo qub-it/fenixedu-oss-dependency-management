@@ -315,13 +315,6 @@
         </repository>
     </repositories>
 
-    <pluginRepositories>
-        <pluginRepository>
-            <id>qubIT-oss</id>
-            <url>https://repository-oss.omnis.cloud/nexus/repository/releases/</url>
-        </pluginRepository>
-    </pluginRepositories>
-
     <distributionManagement>
         <repository>
             <id>qubIT-oss</id>

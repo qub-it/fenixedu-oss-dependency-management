@@ -21,7 +21,8 @@
         <dependencies>
             <!-- FENIXEDU SOLUTION org.fenixedu -->
             <dependency>
-                <groupId>org.fenixedu</groupId>
+                <groupId>org.fenixedu</groupId><!-- should be
+				com.qubit.solution.fenixedu -->
                 <artifactId>bennu-academic-extensions</artifactId>
                 <version>4.24.0</version>
             </dependency>
@@ -34,11 +35,6 @@
                 <groupId>org.fenixedu</groupId>
                 <artifactId>bennu-cas-client</artifactId>
                 <version>${version.org.fenixedu.bennu}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.fenixedu</groupId>
-                <artifactId>bennu-commons</artifactId>
-                <version>1.1.2</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu</groupId>
@@ -117,11 +113,6 @@
                 <version>${version.org.fenixedu.bennu}</version>
             </dependency>
             <dependency>
-                <groupId>org.fenixedu</groupId>
-                <artifactId>fenixedu-academic-treasury</artifactId>
-                <version>4.6.1</version>
-            </dependency>
-            <dependency>
                 <groupId>org.fenixedu</groupId><!-- should be
 				com.qubit.solution.fenixedu -->
                 <artifactId>fenixedu-academic-treasury-base</artifactId>
@@ -144,12 +135,6 @@
                 <groupId>com.qubit.solution.fenixedu</groupId>
                 <artifactId>fenixedu-academic-core</artifactId>
                 <version>${version.academic.core}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.fenixedu</groupId><!-- should be
-				com.qubit.solution.fenixedu -->
-                <artifactId>fenixedu-academic-extensions</artifactId>
-                <version>4.24.0</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu</groupId>
@@ -228,11 +213,6 @@
                 <groupId>com.qubit.terra</groupId>
                 <artifactId>qub-docs</artifactId>
                 <version>1.2.1</version>
-            </dependency>
-            <dependency>
-                <groupId>com.qubit.solution.fenixedu</groupId>
-                <artifactId>bennu-versioning</artifactId>
-                <version>2.1.5</version>
             </dependency>
             <dependency>
                 <groupId>com.qubit.solution.fenixedu</groupId>

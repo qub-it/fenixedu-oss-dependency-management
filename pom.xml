@@ -15,6 +15,7 @@
         <version.org.fenixedu.bennu>6.3.0-FORK</version.org.fenixedu.bennu>
         <version.org.fenixedu.bennu.renderers>5.4.0-FORK</version.org.fenixedu.bennu.renderers>
         <version.academic.core>44.2.1</version.academic.core>
+        <version.pt.ist.fenix.framework>2.8.0</version.pt.ist.fenix.framework>
     </properties>
 
     <dependencyManagement>
@@ -285,6 +286,53 @@
                 <groupId>pt.ulisboa</groupId>
                 <artifactId>ewp-node</artifactId>
                 <version>0.6.1</version>
+            </dependency>
+
+            <!-- Fenix Framework dependencies-->
+            <dependency>
+                <groupId>pt.ist</groupId>
+                <artifactId>fenix-framework-backend-jvstm-common-runtime</artifactId>
+                <version>${version.pt.ist.fenix.framework}</version>
+            </dependency>
+            <dependency>
+                <groupId>pt.ist</groupId>
+                <artifactId>fenix-framework-backend-jvstm-inmem-runtime</artifactId>
+                <version>${version.pt.ist.fenix.framework}</version>
+            </dependency>
+            <dependency>
+                <groupId>pt.ist</groupId>
+                <artifactId>fenix-framework-backend-jvstm-ojb-code-generator</artifactId>
+                <version>${version.pt.ist.fenix.framework}</version>
+            </dependency>
+            <dependency>
+                <groupId>pt.ist</groupId>
+                <artifactId>fenix-framework-backend-jvstm-ojb-runtime</artifactId>
+                <version>${version.pt.ist.fenix.framework}</version>
+            </dependency>
+            <dependency>
+                <groupId>pt.ist</groupId>
+                <artifactId>fenix-framework-core-adt-bplustree</artifactId>
+                <version>${version.pt.ist.fenix.framework}</version>
+            </dependency>
+            <dependency>
+                <groupId>pt.ist</groupId>
+                <artifactId>fenix-framework-core-api</artifactId>
+                <version>${version.pt.ist.fenix.framework}</version>
+            </dependency>
+            <dependency>
+                <groupId>pt.ist</groupId>
+                <artifactId>fenix-framework-core-consistency-predicates</artifactId>
+                <version>${version.pt.ist.fenix.framework}</version>
+            </dependency>
+            <dependency>
+                <groupId>pt.ist</groupId>
+                <artifactId>fenix-framework-core-dml</artifactId>
+                <version>${version.pt.ist.fenix.framework}</version>
+            </dependency>
+            <dependency>
+                <groupId>pt.ist</groupId>
+                <artifactId>fenix-framework-core-dml-code-generator</artifactId>
+                <version>${version.pt.ist.fenix.framework}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>

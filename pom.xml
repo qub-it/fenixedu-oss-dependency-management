@@ -25,7 +25,7 @@
                 <groupId>org.fenixedu</groupId><!-- should be
 				com.qubit.solution.fenixedu -->
                 <artifactId>fenixedu-academic-extensions</artifactId>
-                <version>4.25.0</version>
+                <version>4.26.0</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu</groupId>

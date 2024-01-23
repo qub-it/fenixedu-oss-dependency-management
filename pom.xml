@@ -14,7 +14,7 @@
     <properties>
         <version.org.fenixedu.bennu>6.4.1-FORK</version.org.fenixedu.bennu>
         <version.org.fenixedu.bennu.renderers>5.4.0-FORK</version.org.fenixedu.bennu.renderers>
-        <version.academic.core>46.0.2</version.academic.core>
+        <version.academic.core>46.0.3</version.academic.core>
         <version.pt.ist.fenix.framework>2.8.0</version.pt.ist.fenix.framework>
     </properties>
 

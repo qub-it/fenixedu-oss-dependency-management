@@ -14,7 +14,7 @@
     <properties>
         <version.org.fenixedu.bennu>6.4.1-FORK</version.org.fenixedu.bennu>
         <version.org.fenixedu.bennu.renderers>5.4.0-FORK</version.org.fenixedu.bennu.renderers>
-        <version.academic.core>46.0.3</version.academic.core>
+        <version.academic.core>46.1.0</version.academic.core>
         <version.pt.ist.fenix.framework>2.8.0</version.pt.ist.fenix.framework>
     </properties>
 
@@ -117,13 +117,13 @@
                 <groupId>org.fenixedu</groupId><!-- should be
 				com.qubit.solution.fenixedu -->
                 <artifactId>fenixedu-academic-treasury-base</artifactId>
-                <version>11.3.11</version>
+                <version>11.4.0</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu</groupId><!-- should be
 				com.qubit.solution.fenixedu -->
                 <artifactId>fenixedu-academic-treasury-ui</artifactId>
-                <version>9.2.2</version>
+                <version>9.3.0</version>
             </dependency>
             <dependency>
                 <groupId>com.qubit.solution.fenixedu</groupId>
@@ -182,13 +182,13 @@
                 <groupId>org.fenixedu</groupId><!-- should be
 				com.qubit.solution.fenixedu -->
                 <artifactId>fenixedu-treasury-base</artifactId>
-                <version>12.6.3</version>
+                <version>12.7.0</version>
 	    </dependency>
             <dependency>
                 <groupId>org.fenixedu</groupId><!-- should be
 				com.qubit.solution.fenixedu -->
                 <artifactId>fenixedu-treasury-ui</artifactId>
-                <version>9.0.10</version>
+                <version>9.0.11</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu</groupId>

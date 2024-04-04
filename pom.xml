@@ -182,13 +182,13 @@
                 <groupId>org.fenixedu</groupId><!-- should be
 				com.qubit.solution.fenixedu -->
                 <artifactId>fenixedu-treasury-base</artifactId>
-                <version>12.13.0</version>
+                <version>12.13.1</version>
 	    </dependency>
             <dependency>
                 <groupId>org.fenixedu</groupId><!-- should be
 				com.qubit.solution.fenixedu -->
                 <artifactId>fenixedu-treasury-ui</artifactId>
-                <version>9.0.11</version>
+                <version>9.0.12</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu</groupId>

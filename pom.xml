@@ -278,11 +278,6 @@
                 <version>2.10.3</version>
             </dependency>
             <dependency>
-                <groupId>org.fenixedu.ulisboa</groupId>
-                <artifactId>themes</artifactId>
-                <version>2.9.5</version>
-            </dependency>
-            <dependency>
                 <groupId>pt.ulisboa</groupId>
                 <artifactId>ewp-node</artifactId>
                 <version>0.6.1</version>

@@ -140,7 +140,7 @@
             <dependency>
                 <groupId>org.fenixedu</groupId>
                 <artifactId>fenixedu-cms</artifactId>
-                <version>3.4.0-FORK</version>
+                <version>3.5.0-FORK</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu</groupId>

@@ -117,7 +117,7 @@
                 <groupId>org.fenixedu</groupId><!-- should be
 				com.qubit.solution.fenixedu -->
                 <artifactId>fenixedu-academic-treasury-base</artifactId>
-                <version>11.9.0</version>
+                <version>11.10.0</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu</groupId><!-- should be

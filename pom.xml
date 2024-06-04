@@ -68,7 +68,7 @@
                 <version>${version.org.fenixedu.bennu}</version>
             </dependency>
             <dependency>
-                <groupId>org.fenixedu</groupId>
+                <groupId>com.qubit.solution.fenixedu</groupId>
                 <artifactId>bennu-qub.module.santander-integration</artifactId>
                 <version>1.1.0</version>
             </dependency>

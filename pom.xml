@@ -20,6 +20,13 @@
 
     <dependencyManagement>
         <dependencies>
+            <!-- Please update this dependency in platform dm too -->
+            <dependency>
+				<groupId>com.qubit.terra</groupId>
+				<artifactId>qub-foundation-core-api</artifactId>
+				<version>6.10.0</version>
+			</dependency>
+
             <!-- FENIXEDU SOLUTION org.fenixedu -->
             <dependency>
                 <groupId>org.fenixedu</groupId><!-- should be

@@ -6,7 +6,7 @@
 
     <groupId>com.qubit.solution.fenixedu</groupId>
     <artifactId>fenixedu-oss-dependency-management</artifactId>
-    <version>164</version>
+    <version>166</version>
     <packaging>pom</packaging>
 
     <name>fenixedu-oss-dependency-management</name>
@@ -208,7 +208,7 @@
             <dependency>
                 <groupId>com.qubit.terra</groupId>
                 <artifactId>qub-access-control</artifactId>
-                <version>1.9.0</version>
+                <version>2.0.0</version>
             </dependency>
             <dependency>
                 <groupId>com.qubit.terra</groupId>

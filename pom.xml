@@ -20,6 +20,13 @@
 
     <dependencyManagement>
         <dependencies>
+            <!-- Please update this dependency in platform dm too -->
+            <dependency>
+				<groupId>com.qubit.terra</groupId>
+				<artifactId>qub-foundation-core-api</artifactId>
+				<version>7.2.2</version>
+			</dependency>
+
             <!-- FENIXEDU SOLUTION org.fenixedu -->
             <dependency>
                 <groupId>org.fenixedu</groupId><!-- should be
@@ -193,7 +200,7 @@
             <dependency>
                 <groupId>org.fenixedu</groupId>
                 <artifactId>online-payments-gateway</artifactId>
-                <version>1.3.1</version>
+                <version>1.4.0</version>
             </dependency>
             <dependency>
                 <groupId>pt.ist</groupId>

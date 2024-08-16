@@ -24,7 +24,7 @@
             <dependency>
 				<groupId>com.qubit.terra</groupId>
 				<artifactId>qub-foundation-core-api</artifactId>
-				<version>7.4.0</version>
+				<version>7.3.0</version>
 			</dependency>
 
             <!-- FENIXEDU SOLUTION org.fenixedu -->

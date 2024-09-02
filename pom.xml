@@ -235,7 +235,7 @@
             <dependency>
                 <groupId>com.qubit.solution.fenixedu</groupId>
                 <artifactId>santander-sdk</artifactId>
-                <version>1.2.0</version>
+                <version>1.2.1</version>
             </dependency>
 
             <!-- Ulisboa Open Source Modules -->

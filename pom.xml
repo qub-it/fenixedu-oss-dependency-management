@@ -32,7 +32,7 @@
                 <groupId>org.fenixedu</groupId><!-- should be
 				com.qubit.solution.fenixedu -->
                 <artifactId>fenixedu-academic-extensions</artifactId>
-                <version>4.35.3</version>
+                <version>4.35.4</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu</groupId>

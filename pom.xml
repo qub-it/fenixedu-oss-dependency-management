@@ -16,6 +16,7 @@
         <version.org.fenixedu.bennu.renderers>6.1.0-FORK</version.org.fenixedu.bennu.renderers>
         <version.academic.core>47.1.0</version.academic.core>
         <version.pt.ist.fenix.framework>3.0.0</version.pt.ist.fenix.framework>
+	<version.dss>5.13</version.dss>
     </properties>
 
     <dependencyManagement>
@@ -301,6 +302,52 @@
                 <artifactId>fenix-framework-dml-compiler</artifactId>
                 <version>${version.pt.ist.fenix.framework}</version>
             </dependency>
+
+	    <!-- 3rd parties -->
+
+	    <dependency>
+                 <groupId>org.bouncycastle</groupId>
+                 <artifactId>bcprov-jdk18on</artifactId>
+                 <version>1.78.1</version>
+           </dependency>
+           <dependency>
+                 <groupId>org.bouncycastle</groupId>
+                 <artifactId>bcpkix-jdk18on</artifactId>
+                 <version>1.78.1</version>
+           </dependency>
+           <dependency>
+                  <groupId>org.bouncycastle</groupId>
+                  <artifactId>bcutil-jdk18on</artifactId>
+                  <version>1.78.1</version>
+           </dependency>
+
+           <dependency>
+                  <groupId>eu.europa.ec.joinup.sd-dss</groupId>
+                  <artifactId>dss-crl-parser-stream</artifactId>
+                  <version>${version.dss}</version>
+           </dependency>
+           <dependency>
+                  <groupId>eu.europa.ec.joinup.sd-dss</groupId>
+                  <artifactId>dss-pades-pdfbox</artifactId>
+                  <version>${version.dss}</version>
+           </dependency>
+           <dependency>
+                  <groupId>eu.europa.ec.joinup.sd-dss</groupId>
+                  <artifactId>dss-service</artifactId>
+                  <version>${version.dss}</version>
+           </dependency>
+           <dependency>
+                  <groupId>eu.europa.ec.joinup.sd-dss</groupId>
+                  <artifactId>dss-token</artifactId>
+                  <version>${version.dss}</version>
+           </dependency>
+           <dependency>
+                  <groupId>eu.europa.ec.joinup.sd-dss</groupId>
+                  <artifactId>dss-utils-apache-commons</artifactId>
+                  <version>${version.dss}</version>
+           </dependency>
+
+
         </dependencies>
     </dependencyManagement>
 

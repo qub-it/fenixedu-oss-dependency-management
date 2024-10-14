@@ -125,7 +125,7 @@
                 <groupId>org.fenixedu</groupId><!-- should be
 				com.qubit.solution.fenixedu -->
                 <artifactId>fenixedu-academic-treasury-base</artifactId>
-                <version>11.18.0</version>
+                <version>11.18.1</version>
             </dependency>
             <dependency>
 		<groupId>org.fenixedu</groupId><!-- should be
@@ -248,7 +248,7 @@
             <dependency>
                 <groupId>com.qubit.solution.fenixedu</groupId>
                 <artifactId>fenixedu-ulisboa-cgdIntegration</artifactId>
-                <version>2.12.3</version>
+                <version>2.12.4</version>
             </dependency>
             <dependency>
                 <groupId>com.qubit.solution.fenixedu</groupId>

@@ -28,6 +28,13 @@
 				<version>7.11.0</version>
 			</dependency>
 
+            <!-- Please update this dependency in platform dm too -->
+            <dependency>
+				<groupId>javax.servlet</groupId>
+				<artifactId>javax.servlet-api</artifactId>
+				<version>3.1.0</version>
+			</dependency>
+
             <!-- FENIXEDU SOLUTION org.fenixedu -->
             <dependency>
                 <groupId>org.fenixedu</groupId><!-- should be

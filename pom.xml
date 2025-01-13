@@ -14,7 +14,7 @@
     <properties>
         <version.org.fenixedu.bennu>7.7.0-FORK</version.org.fenixedu.bennu>
         <version.org.fenixedu.bennu.renderers>6.1.0-FORK</version.org.fenixedu.bennu.renderers>
-        <version.academic.core>48.4.0</version.academic.core>
+        <version.academic.core>48.5.0</version.academic.core>
         <version.pt.ist.fenix.framework>3.0.0</version.pt.ist.fenix.framework>
 	<version.dss>5.13</version.dss>
     </properties>
@@ -285,7 +285,7 @@
             <dependency>
                 <groupId>org.fenixedu.ulisboa</groupId>
                 <artifactId>fenixedu-ulisboa-specifications</artifactId>
-                <version>7.21.4</version>
+                <version>7.21.5</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu.ulisboa.themes</groupId>

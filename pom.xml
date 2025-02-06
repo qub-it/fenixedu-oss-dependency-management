@@ -132,7 +132,7 @@
                 <groupId>org.fenixedu</groupId><!-- should be
 				com.qubit.solution.fenixedu -->
                 <artifactId>fenixedu-academic-treasury-base</artifactId>
-                <version>12.3.1</version>
+                <version>12.3.2</version>
             </dependency>
             <dependency>
 		<groupId>org.fenixedu</groupId><!-- should be

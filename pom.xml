@@ -280,7 +280,7 @@
             <dependency>
                 <groupId>org.fenixedu.ulisboa</groupId>
                 <artifactId>fenixedu-ulisboa-sas-integration</artifactId>
-                <version>3.5.2</version>
+                <version>3.5.3</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu.ulisboa</groupId>

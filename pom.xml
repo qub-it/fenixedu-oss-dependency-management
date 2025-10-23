@@ -40,7 +40,7 @@
                 <groupId>org.fenixedu</groupId><!-- should be
 				com.qubit.solution.fenixedu -->
                 <artifactId>fenixedu-academic-extensions</artifactId>
-                <version>4.35.37</version>
+                <version>4.35.38</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu</groupId>
@@ -285,7 +285,7 @@
             <dependency>
                 <groupId>org.fenixedu.ulisboa</groupId>
                 <artifactId>fenixedu-ulisboa-specifications</artifactId>
-                <version>7.24.10</version>
+                <version>7.24.11</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu.ulisboa.themes</groupId>

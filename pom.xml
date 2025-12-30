@@ -14,7 +14,7 @@
     <properties>
         <version.org.fenixedu.bennu>7.8.7-FORK</version.org.fenixedu.bennu>
         <version.org.fenixedu.bennu.renderers>6.1.0-FORK</version.org.fenixedu.bennu.renderers>
-        <version.academic.core>53.1.0</version.academic.core>
+        <version.academic.core>53.1.1</version.academic.core>
         <version.academic.treasury.base>12.17.1</version.academic.treasury.base>
         <version.pt.ist.fenix.framework>3.0.0</version.pt.ist.fenix.framework>
 	<version.dss>5.13</version.dss>

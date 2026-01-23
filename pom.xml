@@ -41,7 +41,7 @@
                 <groupId>org.fenixedu</groupId><!-- should be
 				com.qubit.solution.fenixedu -->
                 <artifactId>fenixedu-academic-extensions</artifactId>
-                <version>4.35.43</version>
+                <version>4.35.44</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu</groupId>

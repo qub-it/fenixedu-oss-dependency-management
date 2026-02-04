@@ -146,7 +146,7 @@
 		<groupId>org.fenixedu</groupId><!-- should be
 				com.qubit.solution.fenixedu -->
                 <artifactId>fenixedu-academic-treasury-ui</artifactId>
-                <version>9.9.5</version>
+                <version>9.9.6</version>
             </dependency>
             <dependency>
                 <groupId>com.qubit.solution.fenixedu</groupId>
@@ -211,7 +211,7 @@
                 <groupId>org.fenixedu</groupId><!-- should be
 				com.qubit.solution.fenixedu -->
                 <artifactId>fenixedu-treasury-ui</artifactId>
-                <version>9.8.2</version>
+                <version>9.8.3</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu</groupId>

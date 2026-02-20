@@ -173,7 +173,7 @@
             <dependency>
                 <groupId>org.fenixedu</groupId>
                 <artifactId>fenixedu-learning</artifactId>
-                <version>3.13.7-FORK</version>
+                <version>3.13.8-FORK</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu</groupId>

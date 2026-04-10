@@ -189,7 +189,7 @@
             <dependency>
                 <groupId>org.fenixedu</groupId>
                 <artifactId>fenixedu-spaces</artifactId>
-                <version>5.4.1-FORK</version>
+                <version>5.4.2-FORK</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu</groupId>

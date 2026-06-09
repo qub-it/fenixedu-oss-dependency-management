@@ -12,7 +12,7 @@
     <name>fenixedu-oss-dependency-management</name>
 
     <properties>
-        <version.org.fenixedu.bennu>7.8.7-FORK</version.org.fenixedu.bennu>
+        <version.org.fenixedu.bennu>7.8.9-FORK</version.org.fenixedu.bennu>
         <version.org.fenixedu.bennu.renderers>6.1.0-FORK</version.org.fenixedu.bennu.renderers>
         <version.academic.core>55.3.3</version.academic.core>
         <version.academic.treasury.base>12.19.8</version.academic.treasury.base>

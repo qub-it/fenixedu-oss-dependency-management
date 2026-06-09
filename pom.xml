@@ -46,7 +46,7 @@
             <dependency>
                 <groupId>org.fenixedu</groupId>
                 <artifactId>bennu-admin</artifactId>
-                <version>${version.org.fenixedu.bennu}</version>
+                <version>7.8.8-FORK</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu</groupId>

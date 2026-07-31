@@ -6,7 +6,7 @@
 
     <groupId>com.qubit.solution.fenixedu</groupId>
     <artifactId>fenixedu-oss-dependency-management</artifactId>
-    <version>717</version>
+    <version>718</version>
     <packaging>pom</packaging>
 
     <name>fenixedu-oss-dependency-management</name>

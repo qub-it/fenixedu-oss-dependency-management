@@ -163,17 +163,12 @@
             <dependency>
                 <groupId>org.fenixedu</groupId>
                 <artifactId>fenixedu-cms</artifactId>
-                <version>3.8.3-FORK</version>
+                <version>4.0.0-FORK</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu</groupId>
                 <artifactId>fenixedu-commons</artifactId>
                 <version>2.2.0-FORK</version>
-            </dependency>
-            <dependency>
-                <groupId>org.fenixedu</groupId>
-                <artifactId>fenixedu-learning</artifactId>
-                <version>3.13.13-FORK</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu</groupId>

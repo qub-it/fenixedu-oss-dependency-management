@@ -16,7 +16,7 @@
         <version.org.fenixedu.bennu.renderers>6.1.0-FORK</version.org.fenixedu.bennu.renderers>
         <version.academic.core>61.0.0</version.academic.core>
         <version.academic.treasury.base>12.20.1</version.academic.treasury.base>
-        <version.pt.ist.fenix.framework>3.0.0</version.pt.ist.fenix.framework>
+        <version.pt.ist.fenix.framework>3.1.0</version.pt.ist.fenix.framework>
 	<version.dss>5.13</version.dss>
     </properties>
 
@@ -46,7 +46,7 @@
             <dependency>
                 <groupId>org.fenixedu</groupId>
                 <artifactId>bennu-admin</artifactId>
-                <version>7.8.8-FORK</version>
+                <version>7.8.13-FORK</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu</groupId>
@@ -71,7 +71,7 @@
             <dependency>
                 <groupId>org.fenixedu</groupId>
                 <artifactId>bennu-modular-rendering</artifactId>
-                <version>1.1.0</version>
+                <version>2.0.0</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu</groupId>

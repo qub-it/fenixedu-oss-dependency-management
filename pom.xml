@@ -163,7 +163,7 @@
             <dependency>
                 <groupId>org.fenixedu</groupId>
                 <artifactId>fenixedu-cms</artifactId>
-                <version>4.0.0-FORK</version>
+                <version>4.0.1-FORK</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu</groupId>

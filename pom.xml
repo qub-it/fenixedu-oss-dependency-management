@@ -146,7 +146,7 @@
 		<groupId>org.fenixedu</groupId><!-- should be
 				com.qubit.solution.fenixedu -->
                 <artifactId>fenixedu-academic-treasury-ui</artifactId>
-                <version>9.10.0</version>
+                <version>9.10.1</version>
             </dependency>
             <dependency>
                 <groupId>com.qubit.solution.fenixedu</groupId>
@@ -288,7 +288,7 @@
             <dependency>
                 <groupId>org.fenixedu.ulisboa</groupId>
                 <artifactId>fenixedu-ulisboa-specifications</artifactId>
-                <version>9.0.0</version>
+                <version>9.0.1</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu.ulisboa.themes</groupId>

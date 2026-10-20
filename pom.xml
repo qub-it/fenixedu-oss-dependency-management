@@ -17,24 +17,24 @@
         <version.academic.core>63.0.0</version.academic.core>
         <version.academic.treasury.base>12.21.0</version.academic.treasury.base>
         <version.pt.ist.fenix.framework>3.0.0</version.pt.ist.fenix.framework>
-	<version.dss>5.13</version.dss>
+        <version.dss>5.13</version.dss>
     </properties>
 
     <dependencyManagement>
         <dependencies>
             <!-- Please update this dependency in platform dm too -->
             <dependency>
-				<groupId>com.qubit.terra</groupId>
-				<artifactId>qub-foundation-core-api</artifactId>
-				<version>7.23.0</version>
-			</dependency>
+                <groupId>com.qubit.terra</groupId>
+                <artifactId>qub-foundation-core-api</artifactId>
+                <version>7.23.0</version>
+            </dependency>
 
             <!-- Please update this dependency in platform dm too -->
             <dependency>
-				<groupId>javax.servlet</groupId>
-				<artifactId>javax.servlet-api</artifactId>
-				<version>3.1.0</version>
-			</dependency>
+                <groupId>javax.servlet</groupId>
+                <artifactId>javax.servlet-api</artifactId>
+                <version>3.1.0</version>
+            </dependency>
 
             <!-- FENIXEDU SOLUTION org.fenixedu -->
             <dependency>
@@ -143,7 +143,7 @@
                 <version>${version.academic.treasury.base}</version>
             </dependency>
             <dependency>
-		<groupId>org.fenixedu</groupId><!-- should be
+                <groupId>org.fenixedu</groupId><!-- should be
 				com.qubit.solution.fenixedu -->
                 <artifactId>fenixedu-academic-treasury-ui</artifactId>
                 <version>9.10.3</version>
@@ -200,8 +200,8 @@
                 <groupId>org.fenixedu</groupId><!-- should be
 				com.qubit.solution.fenixedu -->
                 <artifactId>fenixedu-treasury-base</artifactId>
-		<version>15.11.5</version>
-	    </dependency>
+                <version>15.11.5</version>
+            </dependency>
             <dependency>
                 <groupId>org.fenixedu</groupId><!-- should be
 				com.qubit.solution.fenixedu -->
@@ -228,11 +228,11 @@
                 <artifactId>qub-access-control</artifactId>
                 <version>2.6.1</version>
             </dependency>
-			<dependency>
-				<groupId>com.qubit.terra</groupId>
-				<artifactId>qub-docs</artifactId>
-				<version>1.3.1</version>
-			</dependency>
+            <dependency>
+                <groupId>com.qubit.terra</groupId>
+                <artifactId>qub-docs</artifactId>
+                <version>1.3.1</version>
+            </dependency>
             <dependency>
                 <groupId>com.qubit.solution.fenixedu</groupId>
                 <artifactId>bennu-webservices-core</artifactId>
@@ -251,10 +251,10 @@
 
             <!-- Ulisboa Open Source Modules -->
             <dependency>
-				<groupId>com.qubit.solution.fenixedu</groupId>
-				<artifactId>fenixedu-ulisboa-cas-strategies</artifactId>
-				<version>2.4.1</version>
-			</dependency>
+                <groupId>com.qubit.solution.fenixedu</groupId>
+                <artifactId>fenixedu-ulisboa-cas-strategies</artifactId>
+                <version>2.4.1</version>
+            </dependency>
             <dependency>
                 <groupId>com.qubit.solution.fenixedu</groupId>
                 <artifactId>fenixedu-ulisboa-cgdIntegration</artifactId>
@@ -313,49 +313,49 @@
                 <version>${version.pt.ist.fenix.framework}</version>
             </dependency>
 
-	    <!-- 3rd parties -->
+            <!-- 3rd parties -->
 
-	    <dependency>
-                 <groupId>org.bouncycastle</groupId>
-                 <artifactId>bcprov-jdk18on</artifactId>
-                 <version>1.78.1</version>
-           </dependency>
-           <dependency>
-                 <groupId>org.bouncycastle</groupId>
-                 <artifactId>bcpkix-jdk18on</artifactId>
-                 <version>1.78.1</version>
-           </dependency>
-           <dependency>
-                  <groupId>org.bouncycastle</groupId>
-                  <artifactId>bcutil-jdk18on</artifactId>
-                  <version>1.78.1</version>
-           </dependency>
+            <dependency>
+                <groupId>org.bouncycastle</groupId>
+                <artifactId>bcprov-jdk18on</artifactId>
+                <version>1.78.1</version>
+            </dependency>
+            <dependency>
+                <groupId>org.bouncycastle</groupId>
+                <artifactId>bcpkix-jdk18on</artifactId>
+                <version>1.78.1</version>
+            </dependency>
+            <dependency>
+                <groupId>org.bouncycastle</groupId>
+                <artifactId>bcutil-jdk18on</artifactId>
+                <version>1.78.1</version>
+            </dependency>
 
-           <dependency>
-                  <groupId>eu.europa.ec.joinup.sd-dss</groupId>
-                  <artifactId>dss-crl-parser-stream</artifactId>
-                  <version>${version.dss}</version>
-           </dependency>
-           <dependency>
-                  <groupId>eu.europa.ec.joinup.sd-dss</groupId>
-                  <artifactId>dss-pades-pdfbox</artifactId>
-                  <version>${version.dss}</version>
-           </dependency>
-           <dependency>
-                  <groupId>eu.europa.ec.joinup.sd-dss</groupId>
-                  <artifactId>dss-service</artifactId>
-                  <version>${version.dss}</version>
-           </dependency>
-           <dependency>
-                  <groupId>eu.europa.ec.joinup.sd-dss</groupId>
-                  <artifactId>dss-token</artifactId>
-                  <version>${version.dss}</version>
-           </dependency>
-           <dependency>
-                  <groupId>eu.europa.ec.joinup.sd-dss</groupId>
-                  <artifactId>dss-utils-apache-commons</artifactId>
-                  <version>${version.dss}</version>
-           </dependency>
+            <dependency>
+                <groupId>eu.europa.ec.joinup.sd-dss</groupId>
+                <artifactId>dss-crl-parser-stream</artifactId>
+                <version>${version.dss}</version>
+            </dependency>
+            <dependency>
+                <groupId>eu.europa.ec.joinup.sd-dss</groupId>
+                <artifactId>dss-pades-pdfbox</artifactId>
+                <version>${version.dss}</version>
+            </dependency>
+            <dependency>
+                <groupId>eu.europa.ec.joinup.sd-dss</groupId>
+                <artifactId>dss-service</artifactId>
+                <version>${version.dss}</version>
+            </dependency>
+            <dependency>
+                <groupId>eu.europa.ec.joinup.sd-dss</groupId>
+                <artifactId>dss-token</artifactId>
+                <version>${version.dss}</version>
+            </dependency>
+            <dependency>
+                <groupId>eu.europa.ec.joinup.sd-dss</groupId>
+                <artifactId>dss-utils-apache-commons</artifactId>
+                <version>${version.dss}</version>
+            </dependency>
 
 
         </dependencies>

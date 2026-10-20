@@ -36,6 +36,12 @@
                 <version>3.1.0</version>
             </dependency>
 
+            <dependency>
+                <groupId>jakarta.servlet</groupId>
+                <artifactId>jakarta.servlet-api</artifactId>
+                <version>6.0.0</version>
+            </dependency>
+
             <!-- FENIXEDU SOLUTION org.fenixedu -->
             <dependency>
                 <groupId>org.fenixedu</groupId><!-- should be

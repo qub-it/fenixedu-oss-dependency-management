@@ -289,7 +289,7 @@
             <dependency>
                 <groupId>org.fenixedu.ulisboa</groupId>
                 <artifactId>fenixedu-ulisboa-sas-integration</artifactId>
-                <version>4.0.0</version>
+                <version>4.0.1</version>
             </dependency>
             <dependency>
                 <groupId>org.fenixedu.ulisboa</groupId>

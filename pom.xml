@@ -269,7 +269,7 @@
             <dependency>
                 <groupId>com.qubit.solution.fenixedu</groupId>
                 <artifactId>fenixedu-ulisboa-ldapIntegration</artifactId>
-                <version>3.0.0</version>
+                <version>3.0.1</version>
             </dependency>
             <dependency>
                 <groupId>com.qubit.solution.fenixedu</groupId>
